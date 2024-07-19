@@ -27,5 +27,7 @@ interval = 1
 exec = PATH/TO/rt/target/release/rt
 tail = true
 ```
+## Example
 
+![gif of song title move left and looping back to the end](docs/output.gif)
 
